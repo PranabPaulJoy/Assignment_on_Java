@@ -6,6 +6,6 @@ public class Print_Value_upto_two_Decimal_Point {
         double a = 15.5276;
         System.out.println("Given value: "+a);
         System.out.println("\nUpto 2 decimal point");
-        System.out.printf("a=%.2f",a-0.01);
+        System.out.printf("a=%.2f",a);
     }
 }
