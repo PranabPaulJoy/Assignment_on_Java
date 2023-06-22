@@ -1,13 +1,13 @@
 # Assignment on Java
-This project contains some basic java problems and solutions.
+This project contains some basic Java problems and solutions.
 
 ## What is JAVA
-**Java is popular high-level, class-based object oriented programming language originally developed by Sun Microsystems and released in 1995.**
+**Java is a popular high-level, class-based object-oriented programming language originally developed by Sun Microsystems and released in 1995.**
 
 ## Why Java is needed
 Java is a widely-used programming language for coding web applications. It has been a popular choice among developers for 
 over two decades, with millions of Java applications in use today. Java is a multi-platform, object-oriented, and network-centric 
-language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from 
+the language that can be used as a platform in itself. It is a fast, secure, reliable programming language for coding everything from 
 mobile apps and enterprise software to big data applications and server-side technologies.
 
 ## Technology Used
@@ -20,17 +20,17 @@ mobile apps and enterprise software to big data applications and server-side tec
 ## The Problems are
 1. Suppose, a=10 and b=20. Now swap the value using a temp variable. Output: a=20, b=10
 2. Suppose, a=10 and b=20. Now swap the value without a temp variable. Output: a=20, b=10
-3. Suppose a=15.5276. print the value upto 2 decimal point. Output: a=15.52
-4. Write a program that will find your key is found in the given array using binary search method
+3. Suppose a=15.5276. print the value up to 2 decimal points. Output: a=15.52
+4. Write a program that will find your key is found in the given array using the binary search method
    numbers=[1,6,9,3,5,4,7]
    key=5
-5. Write a program that will find your key is found in the given array using linear search method
+5. Write a program that will find your key is found in the given array using the linear search method
    numbers=[1,6,9,3,5,4,7]
    key=5
 
-6. Generate random 10 integer numbers in an array and print out all the numbers from array and also print the max and min number from the array
+6. Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min numbers from the array
 
-7. Write a program that will breakdown the amount and count notes for any given amount. Here is the notes in the given array: 
+7. Write a program that will break down the amount and count notes for any given amount. Here are the notes in the given array: 
    notes=[1000,500,200,100,50,20,10,5,2,1]
 
     Example 1: User input: 575
@@ -62,7 +62,7 @@ mobile apps and enterprise software to big data applications and server-side tec
     1 1
 
 8. Print the prime numbers of 2 to 100
-9. Write a program that will give following output:
+9. Write a program that will give the following output:
     1
 
     12
@@ -73,7 +73,7 @@ mobile apps and enterprise software to big data applications and server-side tec
 
     12345
 
-10. Write a program that will give following output:
+10. Write a program that will give the following output:
     12345
     
     2345
@@ -112,7 +112,7 @@ mobile apps and enterprise software to big data applications and server-side tec
     
     Duplicate value: 4 at index 8
 
-15. Count number of words, number of characters without spaces, number of vowels and consonant from the given string:
+15. Count the number of words, number of characters without spaces, and number of vowels and consonants from the given string:
     
     "I live in Bangladesh"
     
@@ -124,14 +124,14 @@ mobile apps and enterprise software to big data applications and server-side tec
     
     Number of vowels: 7
     
-    Number of consonant: 10
+    Number of consonants: 10
 
 
 16. Encrypt word: ROADTOSDET [when A=F]
    
     Output: WTFIYTXIJY
 
-17. Check if the given string is palindrome or not. Palindrome means after reversing a string, it will be same.
+17. Check if the given string is palindrome or not. Palindrome means after reversing a string, it will be the same.
     
     Input: Civic
     
@@ -141,12 +141,12 @@ mobile apps and enterprise software to big data applications and server-side tec
     
     Output: false
 
-18. Write a program that will take integer numbers as user input continuously and print the sum of numbers until user input q from the keyboard. 
-    When user input q, program will be quit. If user inputs another character, then the program will ask to input the number again.
+18. Write a program that will take integer numbers as user input continuously and print the sum of numbers until the user inputs q from the keyboard. 
+    When the user inputs q, the program will quit. If the user inputs another character, then the program will ask to input the number again.
 
-19. Extract the OTP from the SMS. "Your one time password is 246148. Don't share this code with anyone \r\nBvwt3f8js2S"
+19. Extract the OTP from the SMS. "Your one-time password is 246148. Don't share this code with anyone \r\nBvwt3f8js2S"
 
-20. A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, 
+20. A Core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, 
     what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
 
 **Thanks**
